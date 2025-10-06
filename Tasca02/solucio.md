@@ -92,3 +92,5 @@ La millor opció és el SAI SLC-4000-TWIN RT3, ja que ens ofereix potència sufi
 amb marge, té tecnologia en línia de doble conversió, compte amb més versatilitat en poder
 instal·lar-se en torre o en rack i també té funcions de monitoratge. Per això és la millor i més
 equilibrada en qualitat, prestacions i preu.
+
+[Torna a l'enunciat](
