@@ -4,7 +4,7 @@
 
 Jhon Justiniano / SMX-B / Seguretat Informàtica / [T02: Selecció d’un SAI per una empresa client - Jhon Justiniano](https://docs.google.com/document/d/1y4yAuYR0r9F8PDUmOlgLRDxi8zIZneZxx0w_qDUHHQA/edit?usp=sharing) 
 
-[**1.Descripció del cas	3**](#1.descripció-del-cas)
+[**1.Descripció del cas 3**](#1.descripció-del-cas)
 
 [**2.Inventari d’equips	3**](#2.inventari-d’equips)
 
