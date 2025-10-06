@@ -9,3 +9,4 @@
 🌐 Cada client té les seves necessitats concretes i, sovint, semblen projectes inconnexos.
 
 ⚠️ Però no us enganyeu: el que realment us demanem és capacitat d’adaptació, visió global i organització.
+
