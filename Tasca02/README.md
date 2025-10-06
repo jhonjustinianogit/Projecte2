@@ -17,5 +17,5 @@
 
 ## Solució
 
-[Solució de la tasca](Tasca02/solucio.md)
+[Solució de la tasca](solucio.md)
 
