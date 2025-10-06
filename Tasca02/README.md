@@ -1,4 +1,5 @@
-# Descripció de la tasca
+# T02: Selecció d’un SAI per una empresa client
+
 
 🏢 TecnoGestió S.L.
 
