@@ -16,4 +16,5 @@
 ⚡ Davant les constants incidències amb el subministrament elèctric a la zona, la direcció ha decidit adquirir un SAI per garantir la continuïtat del servei i protegir els equips.
 
 ## Solució
-L'
+
+hio
