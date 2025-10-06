@@ -1,4 +1,5 @@
 # Solució: T02: Selecció d’un SAI per una empresa client
+![Portada](img/Portada.png)
 
 👤 Autor: Jhon Justiniano
 🏫 Curs: SMX-B
@@ -19,6 +20,7 @@ Recerca de models de SAI
 Solució
 
 ## 📄 1. Descripció del cas
+![Imatge de la tasca](
 
 L’empresa TecnoGestió S.L., dedicada a la gestió documental i assessorament informàtic, té un petit despatx amb:
 
