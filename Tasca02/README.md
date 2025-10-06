@@ -18,3 +18,4 @@
 ## Solució
 
 [Solució de la tasca](Tasca02/solucio.md)
+
