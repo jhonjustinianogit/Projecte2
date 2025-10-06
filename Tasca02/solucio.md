@@ -81,6 +81,7 @@ Autonomia mínima de 10 minuts
 Tipus de sortides adequades
 
 Preu i marca competitius
+![Models de SAI](
 
 ## 💡 6. Solució proposada
 
