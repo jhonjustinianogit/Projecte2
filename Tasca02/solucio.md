@@ -1,4 +1,5 @@
 # Solució: T02: Selecció d’un SAI per una empresa client
+
 👤 Autor: Jhon Justiniano
 🏫 Curs: SMX-B
 🔒 Mòdul: Seguretat Informàtica
@@ -81,7 +82,7 @@ Autonomia mínima de 10 minuts
 Tipus de sortides adequades
 
 Preu i marca competitius
-![Models de SAI](
+![Models de SAI](img/SAI.png)
 
 ## 💡 6. Solució proposada
 
