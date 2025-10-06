@@ -10,3 +10,4 @@
 
 ⚠️ Però no us enganyeu: el que realment us demanem és capacitat d’adaptació, visió global i organització.
 
+![Imatge que descriu el projecte](Tasca02/img/Projecte.2.png)
