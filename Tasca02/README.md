@@ -19,5 +19,5 @@
 
 A l'arxiu [solució.md](solucio.md)  hi ha la tasca amd la solicuó
 
-[Torna a la pàgina del projecte](projecte.readme.md)
+[Torna a la pàgina del projecte](../README.md)
 
