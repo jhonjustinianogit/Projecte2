@@ -20,7 +20,7 @@ Recerca de models de SAI
 Solució
 
 ## 📄 1. Descripció del cas
-![Imatge de la tasca](
+![Imatge de la tasca](img/T02imatge.png)
 
 L’empresa TecnoGestió S.L., dedicada a la gestió documental i assessorament informàtic, té un petit despatx amb:
 
