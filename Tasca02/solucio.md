@@ -93,4 +93,4 @@ amb marge, té tecnologia en línia de doble conversió, compte amb més versati
 instal·lar-se en torre o en rack i també té funcions de monitoratge. Per això és la millor i més
 equilibrada en qualitat, prestacions i preu.
 
-[Torna a l'enunciat](
+[Torna a l'enunciat](README.md)
