@@ -79,3 +79,24 @@
 ## 🧠 Conclusió tècnica
 
 El pla OVH Web Cloud Start és l’opció més econòmica que compleix absolutament tots els requisits del Museu del Maresme, sense fer concessions en seguretat i espai.
+
+
+# 🌐 Proposta de Naming (Domini)
+
+## 🏷️ Proposta del Domini
+
+**Opció de domini** | **Justificació**
+--- | ---
+`museudelmaresme.cat` | Reforça la identitat cultural catalana i la presència local.
+`museudelmaresme.org` | Alternativa institucional per entitats culturals públiques.
+
+## ⚙️ Criteris aplicats
+
+- **Identitat local:** `.cat` representa la cultura catalana i encaixa amb la missió del museu.
+- **Recordabilitat:** Nom curt, directe i fàcil de recordar.
+- **Coherència amb el sector:** Els museus i entitats culturals sovint fan servir `.cat` o `.org`.
+- **Disponibilitat:** Dominis disponibles actualment.
+
+## 🧩 Conclusió
+**Domini recomanat:** `museudelmaresme.cat`  
+**Cost anual:** 25 €
