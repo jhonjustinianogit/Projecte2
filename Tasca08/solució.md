@@ -61,3 +61,21 @@
 | **Monitoratge 24/7**  | Supervisió automàtica i uptime alt         |
 | **Escalabilitat**     | Ampliable en qualsevol moment              |
 | **Espai de disc**     | 200 GB mínim                               |
+
+
+# 🖥️ Proposta de Hosting
+
+## ✅ Opció recomanada:** OVH Web Cloud Start
+
+| Aspecte      | Justificació                                                                 |
+|--------------|------------------------------------------------------------------------------|
+| Rendiment    | 250 GB SSD, suficient per a la col·lecció digital i contingut multimèdia.    |
+| Seguretat    | Certificat SSL, còpies automàtiques i tallafoc integrat.                     |
+| Escalabilitat| Possibilitat d’ampliar recursos a plans superiors en minuts.                 |
+| RGPD         | Compliment total (servidors a França, dins la UE).                           |
+| CMS          | 100 % compatible amb WordPress multiusuari.                                  |
+| Cost anual estimat | 190 € / any (IVA inclòs).                                              |
+
+## 🧠 Conclusió tècnica
+
+El pla OVH Web Cloud Start és l’opció més econòmica que compleix absolutament tots els requisits del Museu del Maresme, sense fer concessions en seguretat i espai.
