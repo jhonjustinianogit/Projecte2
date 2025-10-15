@@ -1,6 +1,7 @@
 # Solució: T08: Assessorament de domini i hosting (per client assignat) - Aplicacions web
 
-# Introducció al client Museu del Maresme
+
+# 🏛️ Introducció al client Museu del Maresme
 
 ## 👥 Introducció al client
 
@@ -22,3 +23,26 @@
 - 🗂️ Col·lecció digital optimitzada per a ús públic.
 - 🔒 Allotjament segur, ràpid i complint RGPD.
 - 💰 Cost anual mínim sense perdre qualitat tècnica.
+
+
+# 🔍 Investigació realitzada
+
+## ⚙️ Criteris tècnics considerats
+
+| Criteri               | Descripció                                                                 |
+|-----------------------|----------------------------------------------------------------------------|
+| Espai de disc         | 200 GB recomanats; optimitzat amb CDN o compressió d’imatges.              |
+| Trànsit esperat       | 10.000 visites/mes (+0,2 % anual).                                         |
+| Seguretat             | SSL gratuït, còpies automàtiques, WAF i servidors europeus.                |
+| Escalabilitat         | Possibilitat de pujar de pla o afegir espai.                               |
+| Ubicació              | Espanya o França (RGPD complet).                                           |
+| Compatibilitat CMS    | WordPress multiusuari i PHP actualitzat.                                   |
+
+## 🧾 Taula comparativa d’hostings analitzats
+
+| Proveïdor                | Punts forts                                                    | Punts febles                         | Preu anual aprox. | Ubicació servidors |
+|--------------------------|---------------------------------------------------------------|--------------------------------------|-------------------|--------------------|
+| OVH Web Cloud Start      | 250 GB SSD, SSL gratuït, backups automàtics, RGPD UE          | Suport tècnic lent                   | 190 €             | França             |
+| Hostinet SSDCloud 2      | SSL inclòs, suport WordPress, servidors a Espanya             | Espai de disc més limitat (30 GB)    | 150 €             | Espanya            |
+| Strato WordPress Avançat | SSL, backups, RGPD, WordPress optimitzat                      | Espai de 100 GB, sense escalabilitat automàtica | 180 €    | Alemanya           |
+
