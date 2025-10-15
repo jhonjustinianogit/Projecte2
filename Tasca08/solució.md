@@ -100,3 +100,14 @@ El pla OVH Web Cloud Start és l’opció més econòmica que compleix absolutam
 ## 🧩 Conclusió
 **Domini recomanat:** `museudelmaresme.cat`  
 **Cost anual:** 25 €
+
+
+# 💡 Conclusió final
+
+| Aspecte                 | Decisió                                                         |
+|-------------------------|-----------------------------------------------------------------|
+| **Hosting escollit**    | OVH Web Cloud Start                                             |
+| **Domini recomanat**    | museudelmaresme.cat                                             |
+| **Trànsit màxim suportat** | Fins a 50.000 visites/mes                                  |
+| **Cost total anual**    | 190 € (hosting) + 25 € (domini) = 215 € / any (aprox., amb possibles promocions ≤ 200 €) |
+| **Valor afegit per EverPia** | Solució completa, segura, escalable i econòmica per a entitats culturals. |
