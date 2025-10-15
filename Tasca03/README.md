@@ -21,6 +21,6 @@ Ha arribat a la consultora un equip provinent d’un client que demana assistèn
 
 🧩 Mesures de seguretat
 
-Per evitar riscos o danys sobre l’equip original 💾,
-s’ha realitzat un clonatge del disc en un disc virtual 🧱
+Per evitar riscos o danys sobre l’equip original,
+s’ha realitzat un clonatge del disc en un disc virtual
 perquè hi pugueu treballar de manera segura i controlada.
