@@ -46,3 +46,18 @@
 | Hostinet SSDCloud 2      | SSL inclòs, suport WordPress, servidors a Espanya             | Espai de disc més limitat (30 GB)    | 150 €             | Espanya            |
 | Strato WordPress Avançat | SSL, backups, RGPD, WordPress optimitzat                      | Espai de 100 GB, sense escalabilitat automàtica | 180 €    | Alemanya           |
 
+
+# 📋 Requeriments tècnics del client
+
+## ⚙️ Requeriments tècnics del client
+
+| Requeriment           | Descripció                                 |
+|-----------------------|--------------------------------------------|
+| **SSL**               | Certificat de seguretat per a totes les connexions |
+| **Backups automàtics**| Còpies diàries o setmanals                 |
+| **Correu corporatiu** | Diversos comptes institucionals            |
+| **CMS multiusuari**   | WordPress preinstal·lat                    |
+| **RGPD**              | Servidors dins de la UE                    |
+| **Monitoratge 24/7**  | Supervisió automàtica i uptime alt         |
+| **Escalabilitat**     | Ampliable en qualsevol moment              |
+| **Espai de disc**     | 200 GB mínim                               |
