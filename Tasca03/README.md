@@ -6,7 +6,7 @@ Després de la primera feina exitosa, us arriba un nou encàrrec urgent que requ
 
 Fase prèvia: formació
 
-Abans de començar, rebreu una formació sobre seguretat lògica 🔒
+Abans de començar, rebreu una formació sobre seguretat lògica.
 Aquesta formació us proporcionarà els coneixements necessaris per afrontar correctament la tasca assignada.
 
 Situació plantejada
