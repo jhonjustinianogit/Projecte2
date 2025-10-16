@@ -1,6 +1,6 @@
 # Solució: T08: Assessorament de domini i hosting (per client assignat) - Aplicacions web
 
-
+# 👥 Client 7:
 # 🏛️ Introducció al client Museu del Maresme
 
 ## 👥 Introducció al client
@@ -111,3 +111,28 @@ El pla OVH Web Cloud Start és l’opció més econòmica que compleix absolutam
 | **Trànsit màxim suportat** | Fins a 50.000 visites/mes                                  |
 | **Cost total anual**    | 190 € (hosting) + 25 € (domini) = 215 € / any (aprox., amb possibles promocions ≤ 200 €) |
 | **Valor afegit per EverPia** | Solució completa, segura, escalable i econòmica per a entitats culturals. |
+
+# 👥 Client 8:
+# 🏛️ Introducció al client GreenBikes Sharing
+
+## 👥 Introducció al client
+
+| Aspecte                 | Descripció                                                                 |
+|-------------------------|----------------------------------------------------------------------------|
+| **Nom del client**      | GreenBikes Sharing                                                         |
+| **Sector**              | Mobilitat sostenible                                                       |
+| **Objectiu de la web**  | Desenvolupar una plataforma web amb mapa d’estacions en temps real i sistema de suport per incidències. |
+| **Trànsit previst**     | 12.000 visites mensuals (+0,35 % anual).                                   |
+| **Disponibilitat requerida** | SLA mínim 99,95 %.                                                    |
+| **Pressupost**          | El client no disposa de pressupost fix i demana la solució més econòmica possible que compleixi tots els requisits tècnics. |
+| **Requisits especials** | Alta disponibilitat, seguretat, escalabilitat cloud i integració amb APIs per mapes. |
+| **Canals actuals**      | Instagram i Twitter                                                        |
+| **Preferència de domini** | Nom vinculat a sostenibilitat i mobilitat, amb extensió .city o .cat     |
+
+## 📋 Necessitats concretes
+
+- 🕓 Plataforma operativa 24/7, amb temps de resposta inferior a 500 ms.
+- 🗺️ Mapa d’estacions en temps real integrat amb API (OpenStreetMap o Google Maps).
+- 💬 Sistema de suport a incidències amb formulari o xat.
+- 📱 Alta disponibilitat (99,95 %) i infraestructura cloud escalable.
+- 💰 Cost reduït, sense comprometre seguretat ni fiabilitat.
