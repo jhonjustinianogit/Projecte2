@@ -25,5 +25,6 @@ L’objectiu final és elaborar una presentació professional per explicar a cad
 🧾 Amb arguments i criteris tècnics propis d’un professional informàtic.
 
 ## Solució
-A l'arxiu [solució.md] (solució.md) hi ha la tasca amd la solicuó
+A l'arxiu [solució.md](solució.md) hi ha la tasca amd la solicuó
+
 [Torna a la pàgina del projecte](../README.md)
