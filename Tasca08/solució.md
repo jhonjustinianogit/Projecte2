@@ -226,3 +226,5 @@ Infomaniak Cloud Hosting ofereix la millor relació qualitat/preu: compliment RG
 | **SLA garantit**       | 99,95 %                                                      |
 | **Cost total anual**   | 190 € (hosting + domini)                                     |
 | **Valor afegit per EverPia** | Solució ecològica, fiable, segura i 100 % RGPD, adaptada al pressupost mínim del client. |
+
+[Torna a l'enunciat](README.md)
