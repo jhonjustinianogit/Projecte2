@@ -194,3 +194,24 @@ El pla OVH Web Cloud Start és l’opció més econòmica que compleix absolutam
 
 ## 🧠 Conclusió tècnica
 Infomaniak Cloud Hosting ofereix la millor relació qualitat/preu: compliment RGPD, alta disponibilitat, seguretat professional i preu ajustat exactament a 190 €, sense sobrecostos.
+
+
+# 🌐 Proposta de Naming (Domini)
+
+## 🏷️ Proposta del Domini
+
+| Opció de domini              | Justificació                                                                                 |
+|------------------------------|---------------------------------------------------------------------------------------------|
+| **greenbikessharing.city**   | Transmet mobilitat urbana i sostenibilitat. Ideal per SEO internacional.                    |
+| **greenbikes.cat**           | Reforça la identitat catalana i el compromís amb la sostenibilitat local.                   |
+
+## ⚙️ Criteris aplicats
+
+- **Identitat sectorial:** `.city` relacionat amb mobilitat urbana i ecològica.
+- **Identitat territorial:** `.cat` mostra vinculació local.
+- **Recordabilitat:** Nom directe, curt i fàcil d’escriure.
+- **Disponibilitat:** Ambdós dominis disponibles actualment.
+
+## 🧩 Conclusió
+**Domini recomanat:** `greenbikessharing.city`  
+**Cost anual:** Inclòs dins del pla.
