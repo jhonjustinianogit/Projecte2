@@ -1,5 +1,5 @@
 # T08: Assessorament de domini i hosting (per client assignat) - Aplicacions web
-![grupsT08]
+![grupsT08](img/GrupsT08.png)
 
 ## Descripció del Projecte
 
