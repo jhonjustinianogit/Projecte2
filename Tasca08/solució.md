@@ -65,7 +65,7 @@
 
 # 🖥️ Proposta de Hosting
 
-## ✅ Opció recomanada:** OVH Web Cloud Start
+## ✅ Opció recomanada: OVH Web Cloud Start
 
 | Aspecte      | Justificació                                                                 |
 |--------------|------------------------------------------------------------------------------|
@@ -176,3 +176,21 @@ El pla OVH Web Cloud Start és l’opció més econòmica que compleix absolutam
 | Integració API              | Compatible amb mapes i sistemes externs  | 
 | Compliment RGPD             | Servidors dins la UE                     | 
 | Correu corporatiu           | Inclòs (1–5 comptes)                     |
+
+
+# 🖥️ Proposta de Hosting
+
+## ✅ Opció recomanada: Infomaniak Cloud Hosting
+
+| Aspecte                | Justificació                                                                                  |
+|------------------------|----------------------------------------------------------------------------------------------|
+| Rendiment i fiabilitat | SLA 99,95 %, servidors amb discos SSD NVMe i xarxa redundant.                                |
+| Escalabilitat          | Possibilitat d’ampliar espai o recursos quan augmenti el trànsit.                            |
+| Compliment RGPD        | Certificat ISO 27001, servidors exclusivament a la UE (Suïssa i França).                     |
+| Seguretat              | SSL gratuït, còpies diàries, tallafoc i xifratge avançat.                                    |
+| Integració amb APIs    | Compatible amb OpenStreetMap i Google Maps API.                                              |
+| Suport                 | 24/7 en català, anglès o francès.                                                            |
+| Cost anual estimat     | 190 € (hosting + domini inclòs)                                                             |
+
+## 🧠 Conclusió tècnica
+Infomaniak Cloud Hosting ofereix la millor relació qualitat/preu: compliment RGPD, alta disponibilitat, seguretat professional i preu ajustat exactament a 190 €, sense sobrecostos.
