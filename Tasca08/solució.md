@@ -136,3 +136,27 @@ El pla OVH Web Cloud Start és l’opció més econòmica que compleix absolutam
 - 💬 Sistema de suport a incidències amb formulari o xat.
 - 📱 Alta disponibilitat (99,95 %) i infraestructura cloud escalable.
 - 💰 Cost reduït, sense comprometre seguretat ni fiabilitat.
+
+
+# 🔍 Investigació realitzada
+
+## ⚙️ Criteris tècnics considerats
+
+| Criteri              | Descripció                                                 |
+|----------------------|-----------------------------------------------------------|
+| Disponibilitat (SLA) | 99,95 % o superior.                                       |
+| Escalabilitat        | Possibilitat d’ampliar recursos fàcilment.                |
+| Temps de resposta    | < 500 ms en càrrega inicial.                              |
+| Ubicació servidors   | Europa (Espanya, Països Baixos o França).                 |
+| Monitoratge          | Supervisió constant i alertes automàtiques.               |
+| Integració amb APIs  | Suport per mapes i serveis en temps real.                 |
+| Compliment RGPD      | Servidors dins la UE.                                     |
+
+
+## 🧾 Taula comparativa d’hostings analitzats
+
+| Proveïdor                  | Punts forts                                                                      | Punts febles                             | Preu anual aprox. | Ubicació servidors      |
+|----------------------------|----------------------------------------------------------------------------------|------------------------------------------|-------------------|------------------------|
+| Hostinger Premium Web      | 200 GB SSD, SSL gratuït, rendiment alt, suport 24/7, WordPress optimitzat        | SLA 99,9 % (lleugerament inferior al requerit) | 190 €             | Països Baixos          |
+| Infomaniak Cloud Hosting   | SLA 99,95 %, servidors 100 % a Suïssa i UE, seguretat RGPD                      | Espai inicial 150 GB (ampliable)         | 185 €             | Suïssa / França        |
+| Webempresa Standard Plan   | Atenció en català, còpies diàries, SSL, optimitzat per WordPress                 | Espai 10 GB, menys escalabilitat         | 190 €             | Espanya                |
