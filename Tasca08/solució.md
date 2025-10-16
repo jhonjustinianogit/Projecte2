@@ -160,3 +160,19 @@ El pla OVH Web Cloud Start és l’opció més econòmica que compleix absolutam
 | Hostinger Premium Web      | 200 GB SSD, SSL gratuït, rendiment alt, suport 24/7, WordPress optimitzat        | SLA 99,9 % (lleugerament inferior al requerit) | 190 €             | Països Baixos          |
 | Infomaniak Cloud Hosting   | SLA 99,95 %, servidors 100 % a Suïssa i UE, seguretat RGPD                      | Espai inicial 150 GB (ampliable)         | 185 €             | Suïssa / França        |
 | Webempresa Standard Plan   | Atenció en català, còpies diàries, SSL, optimitzat per WordPress                 | Espai 10 GB, menys escalabilitat         | 190 €             | Espanya                |
+
+
+# 📋 Requeriments tècnics del client
+
+## ⚙️ Requeriments tècnics del client
+
+| Requeriment                 | Descripció                               |
+|-----------------------------|------------------------------------------|
+| Alta disponibilitat (SLA 99,95 %) | Operativitat gairebé total             | 
+| Cloud hosting               | Entorn escalable i flexible              | 
+| SSL                         | Certificat gratuït i automàtic           | 
+| Backups automàtics          | Còpies diàries i restauració ràpida      |
+| Monitoratge 24/7            | Supervisió i alertes constants           | 
+| Integració API              | Compatible amb mapes i sistemes externs  | 
+| Compliment RGPD             | Servidors dins la UE                     | 
+| Correu corporatiu           | Inclòs (1–5 comptes)                     |
