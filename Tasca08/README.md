@@ -1,5 +1,5 @@
 # T08: Assessorament de domini i hosting (per client assignat) - Aplicacions web
-![grupsT08](Tasca08/img/Grups T08.png)
+![grupsT08](img/Grups T08.png)
 ## Descripció del Projecte
 
 Un nou client de la consultora EverPia ha demanat assessorament per escollir domini i hosting per a la seva web.
