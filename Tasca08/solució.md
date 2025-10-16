@@ -215,3 +215,14 @@ Infomaniak Cloud Hosting ofereix la millor relació qualitat/preu: compliment RG
 ## 🧩 Conclusió
 **Domini recomanat:** `greenbikessharing.city`  
 **Cost anual:** Inclòs dins del pla.
+
+
+# 💡 Conclusió final
+
+| Aspecte                | Decisió                                                      |
+|------------------------|--------------------------------------------------------------|
+| **Hosting escollit**   | Infomaniak Cloud Hosting                                     |
+| **Domini recomanat**   | greenbikessharing.city                                       |
+| **SLA garantit**       | 99,95 %                                                      |
+| **Cost total anual**   | 190 € (hosting + domini)                                     |
+| **Valor afegit per EverPia** | Solució ecològica, fiable, segura i 100 % RGPD, adaptada al pressupost mínim del client. |
