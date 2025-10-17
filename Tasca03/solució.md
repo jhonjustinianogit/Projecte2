@@ -38,3 +38,9 @@ Investigueu el procediment per tal que l’accés al GRUB quedi protegit per con
 
 ## 💻 Procediment individual
 Primer abans de tot hem de crear la màquina, per això ens anem a virtualbox i li donem a nova, posem al nom, on la volem guardar i per últim posar l’ISO que ens van donar en la comuna.
+
+![foto1](img/1.png)
+
+Desprès ens anem a hardware y posem de memòria base 4096 MB i de processadors hi posem 4.
+
+
