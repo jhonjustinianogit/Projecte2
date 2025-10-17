@@ -1,26 +1,16 @@
 # T03: Seguretat Lògica: recuperant accés a sistemes
 
-🚨 Nou encàrrec urgent
+🚨 Després de la primera feina exitosa, us arriba un encàrrec urgent que obliga a que us hi poseu per donar-li solució.
 
-Després de la primera feina exitosa, us arriba un nou encàrrec urgent que requereix posar-vos-hi immediatament per trobar una solució.
+Com a fase prèvia rebreu una formació sobre la seguretat lògica que us permetrà tenir els coneixements necessaris per afrontar la tasca.
 
-Fase prèvia: formació
+Han arribat a la consultora un equip provinent d’un client que demana que els hi solucionem el problema.
 
-Abans de començar, rebreu una formació sobre seguretat lògica.
-Aquesta formació us proporcionarà els coneixements necessaris per afrontar correctament la tasca assignada.
+💻 Tenen un portàtil amb Zorin OS (un Linux amb entorn gràfic) que usava habitualment un directiu. El problema és que ha oblidat la contrasenya i és necessari poder recuperar l’accés perquè hi ha documentació molt important que cal recuperar. Per evitar que una acció catastròfica pugui danyar l’equip original, ens han clonat el disc en un disc virtual perquè hi treballeu.
 
-Situació plantejada
+Per tant, el primer pas serà crear una màquina virtual al que connectareu aquest disc. A continuació, cal que entreu a la màquina virtual, trobeu el nom de l’usuari existent i assigneu-li una contrasenya nova.
 
-Ha arribat a la consultora un equip provinent d’un client que demana assistència tècnica urgent.
+👨‍💼 Quan el client és informat del senzill que és accedir a l’equip, demana si n’hi ha alguna manera de fortificar el sistema, ja que té por que si algú roba el portàtil hi pugui accedir a la informació que hi conté. Per tant, ara ens demanen que cerquem solucions per tal d’evitar que es pugui reiniciar la contrasenya amb el procediment anterior. 
 
-💻 Es tracta d’un portàtil amb Zorin OS (una distribució de Linux amb entorn gràfic).
+❗ Investigueu el procediment per tal que l’accés al GRUB quedi protegit per contrasenya per evitar canvis de configuració.
 
-👨‍💼 L’equip era utilitzat habitualment per un directiu.
-
-❗ El problema: ha oblidat la contrasenya i és imprescindible recuperar l’accés, ja que conté documentació molt important.
-
-🧩 Mesures de seguretat
-
-Per evitar riscos o danys sobre l’equip original,
-s’ha realitzat un clonatge del disc en un disc virtual
-perquè hi pugueu treballar de manera segura i controlada.
