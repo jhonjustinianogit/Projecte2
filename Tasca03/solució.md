@@ -43,4 +43,17 @@ Primer abans de tot hem de crear la màquina, per això ens anem a virtualbox i 
 
 Desprès ens anem a hardware y posem de memòria base 4096 MB i de processadors hi posem 4.
 
+![foro2](img/2.png)
 
+Seguidament ens dirigim a configuracions i a l’apartat de emmagatzematge hem de posar el discs que tambè ens la donan en la comuna, el disc ho hem de posar com a sata. Desprès guardem i li donem a iniciar la màquina.
+
+![foto3](img/3.png)
+
+## 🔒 Vulnereu l’accés al GRUB del Linux
+Una vegada li donem a iniciar la máquina hem de presionar shift + qualsevol lletra, això ho hem de fer per poder estar com a root sense que iniciem sessió. Ens surtirà un menú el cual en d’entrar a “Advanced options for Zorin”
+
+![foto4](img/4.png) 
+
+Una vegada entrem ens sortirà un altre menù el cual hen d’entrar a la segona opció “Zorin, with Linux 6.8.0-85-generic (recovery mode)”
+
+![foto5](img/5.png)
