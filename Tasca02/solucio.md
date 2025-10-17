@@ -7,17 +7,17 @@
 
 ## 🗂️ Índex
 
-Descripció del cas
+- Descripció del cas
 
-Inventari d’equips
+- Inventari d’equips
 
-Càlcul de potència total
+- Càlcul de potència total
 
-Determinació de l’autonomia
+- Determinació de l’autonomia
 
-Recerca de models de SAI
+- Recerca de models de SAI
 
-Solució
+- Solució
 
 ## 📄 1. Descripció del cas
 ![Imatge de la tasca](img/T02imatge.png)
