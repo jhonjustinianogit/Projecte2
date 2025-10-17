@@ -16,3 +16,6 @@ Per tant, el primer pas serà crear una màquina virtual al que connectareu aque
 
 ❗ Investigueu el procediment per tal que l’accés al GRUB quedi protegit per contrasenya per evitar canvis de configuració.
 
+## Solució
+A l'arxiu [solució.md](solució.md)  hi ha la tasca amd la solicuó
+[Torna a la pàgina del projecte](../README.md)
