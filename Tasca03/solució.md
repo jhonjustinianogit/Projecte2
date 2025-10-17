@@ -9,6 +9,8 @@
 
 - Introducció
 
+- Procediment individual
+
 - Vulnereu l’accés al GRUB del Linux
 
 - Identifiqueu l’usuari del sistema
@@ -34,4 +36,5 @@ Quan el client és informat del senzill que és accedir a l’equip, demana si n
 
 Investigueu el procediment per tal que l’accés al GRUB quedi protegit per contrasenya per evitar canvis de configuració.
 
-💻 Primer abans de tot hem de crear la màquina, per això ens anem a virtualbox i li donem a nova, posem al nom, on la volem guardar i per últim posar l’ISO que ens van donar en la comuna.
+## 💻 Procediment individual
+Primer abans de tot hem de crear la màquina, per això ens anem a virtualbox i li donem a nova, posem al nom, on la volem guardar i per últim posar l’ISO que ens van donar en la comuna.
