@@ -57,3 +57,64 @@ Una vegada li donem a iniciar la máquina hem de presionar shift + qualsevol lle
 Una vegada entrem ens sortirà un altre menù el cual hen d’entrar a la segona opció “Zorin, with Linux 6.8.0-85-generic (recovery mode)”
 
 ![foto5](img/5.png)
+
+Ens sortirà un altre cop un altre menù i hem de posar l’opció root per poder posar-nos com a root.
+
+![foto6](img/6.png)
+
+Un altre cop en sortirà el mateix menù com abans i un altre cop posem root per poder posar-nos com a root. Abaix en la pantalla ens sortirà que hem de donar enter, li donen a enter y a contrel D per poder continuar.
+
+![foto7](img/7.png)
+
+## 👤 Identifiqueu l’usuari del sistema
+Per identificar l’usuari com ja estem como a root hen de fer les següents comandes: mount -rw -o remount /
+
+![foto8](img/8.png)
+
+El següen comanda ens mostra l’usuari: cat /etc/pa
+
+![foto9](img/9.png)
+
+## 🧑‍💻 Modifiqueu la contrasenya de l’usuari i verifiqueu que ara ja té accés
+Com ja hem identicat l’usuari per modificar la contrasenya d’usuari hem de fer el següent comando: passwd miquel i podem la nova contrasenya, en aquest cas li vaig posar usuari.
+
+![foto10](img/10.png)
+
+Una vegada en canviat la contrasenya entrem a la màquina y y posem la contrasenya i verifiquen que hi tenim accés.
+
+![foto11](img/11.png)
+
+## 🔎 Investigueu com es pot fortificar l’accés al GRUB. És molt important que indiquis les fonts d’informació que usis
+Personalment vaig entrar a la pàgina d’Ubuntu, vaig buscar per google com fortificar l’accès al GRUB i en va sortir la pàgina d’Ubuntu.
+https://manpages.ubuntu.com/manpages/focal/en/man1/grub-mkpasswd-pbkdf2.1.html
+En la pàgina ens diu que podem fortificar l'accés fent el següent comando: grub-mkpasswd-pbkdf2
+
+## 🔐 Configura la màquina virtual per tal de fortificar l’accés al GRUB
+Per fortificar l’accès com ja hem vist abans fer la següent comanda en la terminal de la màquina virtual. grub-mkpasswd-pbkdf2
+
+![foto12](img/12.png)
+
+Copiem des de grup cap en davant. Fins al final.
+
+![foto13](img/13.png)
+
+Seguidament podem aquesta comanda per poder entrar i editar l'arxiu:
+
+![foto14](img/14.png)
+
+Una vegada dins de l’arxiu guardem fen control R y poden la comanda: salida.txt
+
+![foto15](img/15.png)
+
+Desprès de guardar poseen la comanda : set superusers= y nuestro nombre entre comillas: set superusers= “Jhon” just vaig d’això posen: password_pbkdf2 Jhon i peguem ho que abans hem copiat, que sería l'autenticació.
+
+![foto16](img/16.png)
+
+Per últim posem aquesta comanda i comprovem i ja estem.
+
+![foto17](img/17.png)
+
+![foto18](img/18.png)
+
+
+[Torna a l'enunciat](README.md)
